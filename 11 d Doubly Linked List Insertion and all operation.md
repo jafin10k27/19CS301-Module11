@@ -1,7 +1,8 @@
+
 ### EX: 11.d Doubly Linked List (Insertion and all operation)
 
-
 ### Aim: To Type a python function to insert elements at the beginning of the doubly linked list.
+
 ### Algorithm:
 STEP 1: Start.
 
@@ -17,6 +18,8 @@ STEP 6: Stop.
 
 ### Program:
 ```
+## Reg no:212223020018
+## Name: Mohamed Jafin S
 class Node:
          def     __init__(self, data):
                 self.item = data
@@ -64,9 +67,7 @@ new_linked_list.insert_at_start(10)
 new_linked_list.traverse_list()
 ```
 ### Output:
- 
-![image](https://github.com/user-attachments/assets/c9883d28-638d-4f70-bc2d-f269a1606a45)
+ ![image](https://github.com/user-attachments/assets/c9883d28-638d-4f70-bc2d-f269a1606a45)
 
- 
-
-### Result: Thus, the given program is implemented and executed successfully.
+ ### Result:
+ Thus, the given program is implemented and executed successfully.
