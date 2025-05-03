@@ -1,3 +1,4 @@
+
 ### EX: 11.C Doubly Linked List (Traversal, Search and Delete)
 
 ### Aim: To Write a python program to traverse the elements in doubly linked list.
@@ -17,6 +18,8 @@ STEP 6 : Stop.
 
 ### Program:
 ```
+## Reg no:212223020018
+## Name: Mohamed Jafin S
 class Node:
           def    __ init__ (self, data):
                self.item = data
@@ -79,7 +82,6 @@ new_linked_list.traverse_list()
 ### Output:
 ![image](https://github.com/user-attachments/assets/151c84f1-3971-46a7-a040-bed7bde5df09)
 
-### Result: Thus, the given program is implemented and executed successfully.
+### Result: 
+Thus, the given program is implemented and executed successfully.
  
-
-
